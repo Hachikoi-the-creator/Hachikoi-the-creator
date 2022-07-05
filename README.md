@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/8koi2" target="blank"><img src="https://img.shields.io/twitter/follow/8koi2?logo=twitter&style=for-the-badge" alt="8koi2" /></a> </p>
 
-- 🔭 I’m currently working on [A remake from a Vtuber agency](https://smallmo.herokuapp.com/)
+- 🔭 I’m currently working on Mainnet gig for ERC20 trading
 
-- 🌱 I’m currently learning **React, MangoDB & Node**
+- 🌱 I’m currently learning **Soundry, Rust**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/ybhwxkv7](https://tinyurl.com/ybhwxkv7)
 
-- 📫 How to reach me **8koi777@gmail.com**
+- 📫 How to reach me **myacca27@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/y8flxptk](https://tinyurl.com/y8flxptk)
 
