@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Foundry, Rust**
 
-- 👨‍💻 All of my projects are available at [https://tinyurl.com/ybhwxkv7](https://tinyurl.com/ybhwxkv7)
+- 👨‍💻 All of my projects are available at [fueler profile](https://fueler.io/hachikoi)
 
 - 📫 How to reach me **myacca27@gmail.com**
 
