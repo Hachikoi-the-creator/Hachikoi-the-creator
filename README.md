@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Mainnet gig for ERC20 trading
 
-- 🌱 I’m currently learning **Soundry, Rust**
+- 🌱 I’m currently learning **Foundry, Rust**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/ybhwxkv7](https://tinyurl.com/ybhwxkv7)
 
