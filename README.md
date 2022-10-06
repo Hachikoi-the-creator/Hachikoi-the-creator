@@ -1,18 +1,19 @@
 <h1 align="center">Hello there!🧛‍♀️, I'm Adan</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3300&pause=1000&color=F72BE8&background=C2FFCF14&center=true&vCenter=true&width=435&lines=Fron+End+Dev;Blockchain+lover;Weeb+from+heart)](https://git.io/typing-svg)
-<h3 align="center">A passionate Software engineer from Mexico! 🦅</h3>
+<a href="https://git.io/typing-svg" style="border-radius:10px;"><img style="width:100%;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3300&pause=1000&color=D50169&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Fron+End+Dev;Blockchain+lover;Weeb+from+heart" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://twitter.com/8koi2" target="blank"><img src="https://img.shields.io/twitter/follow/8koi2?logo=twitter&style=for-the-badge" alt="8koi2" /></a> </p>
 
 - 🔭 I’m currently working on Mainnet gig for ERC20 trading
 
-- 🌱 I’m currently learning **Foundry, Rust**
+- 🌱 I’m currently learning **MongoDB - Auth0**
 
 - 👨‍💻 All of my projects are available at [fueler profile](https://fueler.io/hachikoi)
 
-- 📫 How to reach me **myacca27@gmail.com**
+- 🔥 Want to take a look at my projects? [Portfolio](https://bricks-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [https://tinyurl.com/y8flxptk](https://tinyurl.com/y8flxptk)
+- 📫 How to reach me **adan.more70@gmail.com**
+
+- 📄 Know about my experiences? [Resume](https://drive.google.com/file/d/1sJPHQsKQmPmTJsRUao4HGLD_F84guG55/view?usp=sharing)
 
 - ⚡ Fun fact **I have always love to work on hard stuff, and that's actually how I ended up in Sfotware Development!**
 
