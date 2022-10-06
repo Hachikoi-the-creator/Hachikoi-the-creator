@@ -1,4 +1,5 @@
 <h1 align="center">Hello there!🧛‍♀️, I'm Adan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3300&pause=1000&color=F72BE8&background=C2FFCF14&center=true&vCenter=true&width=435&lines=Fron+End+Dev;Blockchain+lover;Weeb+from+heart)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software engineer from Mexico! 🦅</h3>
 
 <p align="left"> <a href="https://twitter.com/8koi2" target="blank"><img src="https://img.shields.io/twitter/follow/8koi2?logo=twitter&style=for-the-badge" alt="8koi2" /></a> </p>
