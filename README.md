@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/8koi2" target="blank"><img src="https://img.shields.io/twitter/follow/8koi2?logo=twitter&style=for-the-badge" alt="8koi2" /></a> </p>
 
-- 🔭 I’m currently working on Mainnet gig for ERC20 trading
+- 🔭 I’m currently working on A group project of an Ecommerce
 
-- 🌱 I’m currently learning **MongoDB - Auth0**
+- 🌱 I’m currently learning **SQL - Auth0**
 
 - 👨‍💻 All of my projects are available at [fueler profile](https://fueler.io/hachikoi)
 
-- 🔥 Want to take a look at my projects? [Portfolio](https://bricks-portfolio.vercel.app/)
+- 🔥 Want to take a look at my projects? [Portfolio](https://alice-portfolio-woad.vercel.app)
 
 - 📫 How to reach me **adan.more70@gmail.com**
 
-- 📄 Know about my experiences? [Resume](https://drive.google.com/file/d/1sJPHQsKQmPmTJsRUao4HGLD_F84guG55/view?usp=sharing)
+- 📄 Know about my experiences?
 
 - ⚡ Fun fact **I have always love to work on hard stuff, and that's actually how I ended up in Sfotware Development!**
 
